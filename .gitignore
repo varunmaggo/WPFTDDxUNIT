@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FriendStorage.DataAccess/obj/Debug
+/FriendStorage.DataAccess/bin/Debug
+/FriendStorage.Model/obj/Debug
+/FriendStorage.Model/bin/Debug
+/FriendStorage.UI/obj/Debug
+/FriendStorage.UI/bin/Debug
+/FriendStorage.UITests/obj/Debug
+/FriendStorage.UITests/bin/Debug
+/packages

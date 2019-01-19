@@ -1,0 +1,10 @@
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\FriendStorage.Model\bin\Debug\FriendStorage.Model.dll
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\FriendStorage.Model\bin\Debug\FriendStorage.Model.pdb
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\FriendStorage.Model\obj\Debug\WPFTDDxUNIT.Model.csproj.CoreCompileInputs.cache
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\FriendStorage.Model\obj\Debug\FriendStorage.Model.dll
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\FriendStorage.Model\obj\Debug\FriendStorage.Model.pdb
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.Model\obj\Debug\WPFTDDxUNIT.Model.csproj.CoreCompileInputs.cache
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.Model\bin\Debug\WPFTDDxUNIT.Model.dll
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.Model\bin\Debug\WPFTDDxUNIT.Model.pdb
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.Model\obj\Debug\WPFTDDxUNIT.Model.dll
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.Model\obj\Debug\WPFTDDxUNIT.Model.pdb

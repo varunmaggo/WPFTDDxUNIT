@@ -1,0 +1,11 @@
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.DataAccess\obj\Debug\WPFTDDxUNIT.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.DataAccess\bin\Debug\WPFTDDxUNIT.DataAccess.dll
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.DataAccess\bin\Debug\WPFTDDxUNIT.DataAccess.pdb
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.DataAccess\bin\Debug\WPFTDDxUNIT.Model.dll
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.DataAccess\bin\Debug\WPFTDDxUNIT.Model.pdb
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.DataAccess\obj\Debug\WPFTDDxUNIT.DataAccess.csproj.CopyComplete
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.DataAccess\obj\Debug\WPFTDDxUNIT.DataAccess.dll
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.DataAccess\obj\Debug\WPFTDDxUNIT.DataAccess.pdb
+C:\Users\VARUNMAGGO\Desktop\WpfViewmodelsTdd-master\WpfViewmodelsTdd-master\WPFTDDxUNIT.DataAccess\obj\Debug\WPFTDDxUNIT.DataAccess.csprojAssemblyReference.cache
